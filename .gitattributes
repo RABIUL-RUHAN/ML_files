@@ -1,0 +1,2 @@
+Fashion[[:space:]]MNSIT/*.csv filter=lfs diff=lfs merge=lfs -text
+Fashion[[:space:]]MNSIT/*.ubyte filter=lfs diff=lfs merge=lfs -text
